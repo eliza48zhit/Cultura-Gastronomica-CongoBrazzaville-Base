@@ -7,6 +7,7 @@ Contract Address: 0xDDffAe892e88C794fA27b4Fcb86705389ADbD8e6
 
 Explorer Link: [Ver en Basescan
 ](https://basescan.org/address/0xddffae892e88c794fa27b4fcb86705389adbd8e6#code)
+
 🛠️ Especificaciones Técnicas del ADN Congoleño (Brazzaville)
 Este contrato documenta el sellado de fluidos y la rotura de fibras vegetales:
 
